@@ -1,2 +1,2 @@
-### Install the "rich"
-**pip install rich**
+### Install the "requirements"
+**pip install requirements.txt**
